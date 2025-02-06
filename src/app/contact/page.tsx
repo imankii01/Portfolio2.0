@@ -12,7 +12,7 @@ function Page() {
         <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-center text-zinc-200">
           Contact Me
         </h2>
-        <form action="#" className="space-y-8" onSubmit={handleSubmit}>
+        <form action="#" className="space-y-8" >
           <div>
             <label
               htmlFor="email"
